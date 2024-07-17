@@ -2,6 +2,8 @@
 
 This project enables users to bind a custom domain to their Bento.me personal pages using Cloudflare Workers.
 
+[Live Example](https://getlalaloop.com)
+
 ### Prerequisites
 
 1. Cloudflare Account
